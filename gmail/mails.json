@@ -1,0 +1,162 @@
+{
+  "mails": [
+    {
+      "sender": "Google",
+      "content": "İnternette paylaşılan kayıtlı şifrelerinizi değiştirin.",
+      "unreadmail": false,
+      "detail": {
+        "header":"İnternette paylaşılan kayıtlı şifrelerinizi değiştirin",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"Google Hesabınızda kayıtlı bir ya da daha fazla şifre, kullandığınız bir site veya uygulamadan kaynaklanan veri ihlaline karıştı. Google Hesabınız bu durumdan etkilenmedi.Kayıtlı şifrelerinizi değiştirebilir ve Güvenlik Kontrolü yaparak diğer kişiselleştirilmiş güvenlik önerilerini görebilirsiniz.",
+        "bottom":"Ayrıca, doğrudan şu adrese de gidebilirsiniz:https://myaccount.google.com/security-checkup"
+      }
+    },
+
+    {
+      "sender": "no reply",
+      "content": "We've missed having you around...",
+      "unreadmail": false,
+      "detail": {
+        "header":"We've missed having you around",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"We haven't seen you in your Jira site, sedak.atlassian.net, for a while so we wanted to check in. If your site continues to remain inactive, it will be deactivated on 2022-04-23.",
+        "bottom":"Cheers,The Atlassian Team"
+      }
+    },
+
+    {
+      "sender": "Atlassian",
+      "content": "Your Atlassian cloud subscription for the following products on sedak.atlassian.net has been canceled:",
+      "unreadmail": false,
+      "detail": {
+        "header":"Your subscription will be cancelled soon",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"If you need some help getting started, or a refresher on tips and tricks, check out the Atlassian Community.",
+        "bottom":"Cheers,The Atlassian Team"
+      }
+    },
+
+    {
+      "sender": "Linkedin İş ilanı U.",
+      "content": "Muhasebeci için iş ilanı uyarınız...",
+      "unreadmail": false,
+      "detail": {
+        "header":"Avrupa, Ortadoğu ve Afrika konumunda, tercihlerinizle eşleşen 5 yeni iş ilanı...",
+        "secondHeader":"Hi, Seda Kara",
+        "body":"© 2022 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland. LinkedIn, LinkedIn Ireland Unlimited Company’nin kayıtlı ticari adıdır. LinkedIn ve LinkedIn logosu LinkedIn’in tescilli ticari markalarıdır.",
+        "bottom":"İş İlanı Uyarısı e-postaları alıyorsunuz"
+      }
+    },
+
+    {
+      "sender": "Linkedin",
+      "content": "Avrupa, Ortadoğu ve Afrika konumunda, tercihlerinizle eşleşen 5 yeni iş ilanı.",
+      "unreadmail": false,
+      "detail": {
+        "header":"İnternette paylaşılan kayıtlı şifrelerinizi değiştirin",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"Google Hesabınızda kayıtlı bir ya da daha fazla şifre, kullandığınız bir site veya uygulamadan kaynaklanan veri ihlaline karıştı. Google Hesabınız bu durumdan etkilenmedi.Kayıtlı şifrelerinizi değiştirebilir ve Güvenlik Kontrolü yaparak diğer kişiselleştirilmiş güvenlik önerilerini görebilirsiniz.",
+        "bottom":"Ayrıca, doğrudan şu adrese de gidebilirsiniz:https://myaccount.google.com/security-checkup"
+      }
+    },
+
+    {
+      "sender": "Katalon",
+      "content": "Hello seda kara, Thank you for your interest in Katalon!",
+      "unreadmail": false,
+      "detail": {
+        "header":"Thank you for your interest in Katalon!",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"To confirm that you want to use this email address for all Katalon products, please kindly click the verification link below.",
+        "bottom":"ANote: Signing up with a valid business email is recommended to explore Katalon’s extended features and other benefits."
+      }
+    },
+
+    {
+      "sender": "Canvas Free for Teachers",
+      "content": "Canvas hesabınızdan bazı bildirimlerin günlük raporunu almak için kayıt oldunuz. Aşağıda 23 Eyl günü raporu bulunmaktadır:",
+      "unreadmail": true,
+      "detail": {
+        "header":"Canvas Free for Teachers ",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"Hamza Aydemir just accepted their invitation to participate in the course, R Programlamaya Giriş. Course role: Öğretmen",
+        "bottom":"Hamza Aydemir ders daveti kabul edildi."
+      }
+    },
+    
+
+    {
+      "sender": "Instagram",
+      "content": "We got a request to reset your Instagram password.",
+      "unreadmail": true,
+      "detail": {
+        "header":"İnternette paylaşılan kayıtlı şifrelerinizi değiştirin",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"Google Hesabınızda kayıtlı bir ya da daha fazla şifre, kullandığınız bir site veya uygulamadan kaynaklanan veri ihlaline karıştı. Google Hesabınız bu durumdan etkilenmedi.Kayıtlı şifrelerinizi değiştirebilir ve Güvenlik Kontrolü yaparak diğer kişiselleştirilmiş güvenlik önerilerini görebilirsiniz.",
+        "bottom":"Ayrıca, doğrudan şu adrese de gidebilirsiniz:https://myaccount.google.com/security-checkup"
+      }
+    },
+
+    {
+      "sender": "oidbotomasyon@akdeniz.edu.tr",
+      "content": "Türkiye Bankalar Birliği tarafından, üniversitelerin Finans ve Bankacılık Bölümleri ile bankacılık sektörü arasındaki iletişim ve işbirliğini güçlendirmek amacıyla ",
+      "unreadmail": true,
+      "detail": {
+        "header":"İnternette paylaşılan kayıtlı şifrelerinizi değiştirin",
+        "secondHeader":"oidbotomasyon@akdeniz.edu.tr",
+        "body":"10 11 Kasım 2021 tarihlerinde “Bankacılık ve Finans Dünyasında Güncel Gelişmeler ve Beklentiler” konulu bir video konferans düzenlenecektir.",
+        "bottom":"Ayrıca, doğrudan şu adrese de gidebilirsiniz:https://myaccount.google.com/security-checkup"
+      }
+    },
+
+    {
+      "sender": "Cypress.io",
+      "content": "The Good, the Great, and the Amazing.... ",
+      "unreadmail": true,
+      "detail": {
+        "header":"The Good: We've released Cypress 9.4.0 and 9.4.1. See what's new!",
+        "secondHeader":"hello@cypress.io",
+        "body":"Join Jessica Sachs at the Vue World Tour! Enjoy talks on technical and community updates from Jessica and other experts from around the globe.",
+        "bottom":"The Great: GitHub Actions and E2E testing made easy. Learn how below."
+      }
+    },
+
+    {
+      "sender": "Udemy",
+      "content": "Yardıma mı ihtiyacınız var? Destek için Yardım Merkezimizi ziyaret edin.",
+      "unreadmail": true,
+      "detail": {
+        "header":"Sipariş Onayınızın Günü: 17-11-2021",
+        "secondHeader":"sedaedaascii46@gmail.com",
+        "body":"Cypress io | Sıfırdan İleri Seviyeye Web Otomasyon Testi",
+        "bottom":"Kursu Başlat"
+      }
+    },
+
+    {
+      "sender": "Trendyol",
+      "content": "1473195293 numaralı paketini, sana ulaşması için kargoya verdik.",
+      "unreadmail": true,
+      "detail": {
+        "header":"Email adresin 24 Ocak 2022 Pazartesi 13:49:31 tarihinde başarılı bir şekilde değiştirilmiştir.",
+        "secondHeader":"info@email.trendyol.com",
+        "body":"Gmail değişikliği işlemi sonrasında tüm cihazlardaki oturumlar sonlandırılmıştır",
+        "bottom":"Ürün fiyatları zaman içinde değişiklik gösterebilir. Kampanya ve duyuru maillerinden çıkmak istiyorsan Üyelik Bilgilerim sayfasından tercihlerini değiştirebilirsin."
+      }
+    },
+
+    {
+      "sender": "timesheet@arneca.com",
+      "content": "Sayın Seda Kara...",
+      "unreadmail": true,
+      "detail": {
+        "header":"Doğum Günü Hatırlatıcısı",
+        "secondHeader":"timesheet@arneca.com",
+        "body":"Kahramanmaraş Ofisimizde çalışan, Burhan Bozgeyik isimli arkadaşımızın bugün doğum günü! Kendisine mutlu yıllar diler sevgi ve saygılarımızı sunarız.",
+        "bottom":"Arneca - İnsan Kaynakları Departmanı"
+      }
+    }
+
+  
+  ]
+}
